@@ -1,3 +1,1 @@
-# mundo didático
-
-## Meus primeiros códigos HTML.
+# Meus primeiros códigos HTML.
