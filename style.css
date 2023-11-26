@@ -1,0 +1,22 @@
+h3{
+    background: rgb(187, 255, 0);
+    color: black;
+    font-weight: normal;
+}
+p{
+    background: lightgreen;
+    font-size: larger;
+    color: blueviolet;
+    display: inline-block;
+    border: rgb(rgb(210, 0, 0), rgb(4, 218, 4), rgb(6, 6, 108));
+    padding: 2%;
+    display: block;
+    font-weight: bold;
+}
+div{
+    text-align: center;
+    color: lightcoral;
+}
+span{
+    font-weight: bold;
+}
